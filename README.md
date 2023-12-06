@@ -1,6 +1,6 @@
 Hello! 😊
-🔭 I’m currently working as Microsoft Cloud Consultant/Architect specialising in Azure and M365 
-💻 My blog is at cloud-architecture.co.uk
+- 🔭 I’m currently working as Microsoft Cloud Consultant/Architect specialising in Azure and M365 
+- 💻 My blog is at cloud-architecture.co.uk
 
 <!--
 **markdavidhughes/markdavidhughes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
