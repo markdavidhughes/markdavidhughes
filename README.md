@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mark D. Hughes</h1>
 <h3 align="center">A Microsoft Cloud Consultant/Architect in the UK</h3>
-## About me!
+
+## About Me!
+
 - 📝 I regularly write articles on [www.cloud-architecture.co.uk](www.cloud-architecture.co.uk)
 
 
