@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Mark D. Hughes</h1>
-<h3>A Microsoft Cloud Consultant/Architect in the UK</h3>
+<h1 align="center">Hi 👋, I'm Mark D. Hughes</h1>
+<h3 align="center">A Microsoft Cloud Consultant/Architect in the UK</h3>
 
 ## About Me
 
