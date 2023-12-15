@@ -3,7 +3,7 @@
 
 ## About Me
 
-- 📝 I regularly write articles on [www.cloud-architecture.co.uk](www.cloud-architecture.co.uk)
+- 📝 My new blog can be seen at [www.cloud-architecture.co.uk](www.cloud-architecture.co.uk)
 
 
 ## Connect With Me
