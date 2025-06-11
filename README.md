@@ -20,9 +20,6 @@
 - ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) Scripting & Development
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) Web Development
 
-### Analytics
-- ![KQL](https://img.shields.io/badge/KQL-00B4E4?style=flat-square&logo=azure-data-explorer&logoColor=white) Log Analytics & Monitoring
-
 ## 📊 GitHub Stats
 
 <div align="center">
